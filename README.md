@@ -4,11 +4,11 @@
 Este projeto consiste em um exemplo lúdico de uma mulher negra codando em Python e a relação da linguagem com a escravidão.
 
 Well well... Tech's utilizadas 🤖
-## 🎯 Leonardo AI para geração da imagem
-## 🎯 ChatGPT (chatbot) para descrição gerada sobre a relação dos temas abordados
-## 🎯 Ferramenta online Canva [Canva](https://www.canva.com/)
+### 🎯 Leonardo AI para geração da imagem
+### 🎯 ChatGPT (chatbot) para descrição gerada sobre a relação dos temas abordados
+### 🎯 Ferramenta online [Canva](https://www.canva.com/)
 
-### Criandooooo 🧐:dizzy_face::bulb:
+### Criandooooo 🧐:dizzy_face: :bulb:
 O projeto foi idealizado a partir de uma conscientização social, mesclada com um apelo à inclusão na área de tecnologia.
 
 ## Resultado final
