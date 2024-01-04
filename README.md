@@ -3,7 +3,7 @@
 ## Definindo... :pencil2:
 Este projeto consiste em um exemplo lúdico de uma mulher negra codando em Python e a relação da linguagem com a escravidão.
 
-Well well... Tech's utilizadas 🤖
+## Well well... Tech's utilizadas 🤖
 ### 🎯 Leonardo AI para geração da imagem
 ### 🎯 ChatGPT (chatbot) para descrição gerada sobre a relação dos temas abordados
 ### 🎯 Ferramenta online [Canva](https://www.canva.com/)
