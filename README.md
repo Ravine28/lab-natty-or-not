@@ -8,7 +8,7 @@ Well well... Tech's utilizadas 🤖
 ### 🎯 ChatGPT (chatbot) para descrição gerada sobre a relação dos temas abordados
 ### 🎯 Ferramenta online [Canva](https://www.canva.com/)
 
-## Criandooooo 🧐:dizzy_face: :bulb:
+## Criandooooo 🧐 :dizzy_face: :bulb:
 O projeto foi idealizado a partir de uma conscientização social, mesclada com um apelo à inclusão na área de tecnologia.
 
 ## Resultado final
